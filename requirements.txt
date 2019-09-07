@@ -1,0 +1,8 @@
+flask
+connexion
+pytest
+Flask-SQLAlchemy==2.1
+datetime
+flask-marshmallow
+marshmallow-sqlalchemy 
+marshmallow
